@@ -1,7 +1,7 @@
 # Air Quality Analysis: Patterns and Trends of Key Pollutant
 
 ## Overview
-This project involves a comprehensive exploratory data analysis (EDA) of global air quality data, focusing on pollutants like PM2.5, PM10, NO2, and O3. The analysis aims to identify key patterns, peak pollution periods, and differences in pollution levels across various cities.
+This project involves a comprehensive exploratory data analysis (EDA) of global air quality data, focusing on pollutants like PM2.5, PM10, NO2, and O3. The analysis aims to identify key patterns, peak pollution periods, and differences in pollution levels across various cities. Data was gotten at https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set
 
 ## Key Components
 - **Data Cleaning:** Identified and handled missing and erroneous data.
