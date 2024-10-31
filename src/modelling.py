@@ -49,4 +49,4 @@ def modelling_pipeline(filepath, target):
 
 # Example usage
 if __name__ == "__main__":
-    modelling_pipeline("../data/processed/air_quality_cleaned.csv", target='pollution_index')
+    modelling_pipeline("../data/processed/air_cleaned.csv", target='pollution_index')
