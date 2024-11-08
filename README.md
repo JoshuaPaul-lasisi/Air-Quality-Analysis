@@ -93,7 +93,7 @@ Integrate real-time data APIs for continuous updates.
 Implement advanced forecasting models beyond ARIMA.
 Enable comparison between cities or regions.
 
-Contributors
+## Contributors
 Joshua Paul-lasisi - Developer
 
 Feel free to raise issues or submit pull requests for any suggestions or improvements!
